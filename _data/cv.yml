@@ -27,15 +27,15 @@
     - title: AI Engineer Internship
       institution: SOPHON
       year: 2023-2024
-      description: Led AI micro-server SE5 development on TPU accelerator, building cross-compilation environment, porting PyTorch (YOLOv5/7/8) models to FP32 bmodels via NNTC toolchain for target detection, and achieving INT8 quantization with accuracy tuning.
+      description: Led AI micro-server SE5 development on TPU accelerator. Built cross-compilation environment and transferred YOLO-series models to FP32 bmodels via NNTC toolchain for target detection.
     - title: Software Engineer Internship
       institution: Whale Cloud Computing Technology Co., Ltd
       year: 2020-2021
-      description: Developed user info interaction web service with vertical sharding and RabbitMQ, optimized data storage with Redis/MySQL, applied MapReduce for privacy-preserving big data processing, and leveraged deep learning & random forest to predict broadband off-grid behavior with feature importance analysis.
+      description: Developed a scalable user information service with asynchronous processing and data sharding, integrated big data privacy techniques, and applied machine learning to analyze and predict broadband user behavior.
     - title: Data Engineer Internship
       institution: Tencent Cloud Computing Co., Ltd Cloud Service Platform
       year: 2020
-      description: Evaluated MySQL solutions for project/client needs and leveraged virtualization to efficiently deploy test environments and accelerate self-test data collection.
+      description: Evaluated and optimized MySQL solutions based on system architecture and client requirements, leveraged virtualization to streamline testing and data validation.
 
 - title: Teaching
   type: time_table
@@ -56,6 +56,8 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: NeurIPS Scholar Award
+      year: 2025
     - title: Master of Science Award of Excellence
       year: 2023
       description: Top graduating MS students are recognized with the Master of Science Award of Excellence that is awarded to less than 5% of the graduating class.
