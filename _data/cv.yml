@@ -27,15 +27,15 @@
     - title: AI Engineer Internship
       institution: SOPHON
       year: 2023-2024
-      description: Led AI micro-server SE5 development on TPU accelerator. Built cross-compilation environment and transferred YOLO-series models to FP32 bmodels via NNTC toolchain for target detection.
+      description: Led AI micro-server SE5 development on TPU accelerator.
     - title: Software Engineer Internship
       institution: Whale Cloud Computing Technology Co., Ltd
       year: 2020-2021
-      description: Developed a scalable user information service with asynchronous processing and data sharding, integrated big data privacy techniques, and applied machine learning to analyze and predict broadband user behavior.
+      description: Developed a scalable user information service with asynchronous processing and data sharding.
     - title: Data Engineer Internship
       institution: Tencent Cloud Computing Co., Ltd Cloud Service Platform
       year: 2020
-      description: Evaluated and optimized MySQL solutions based on system architecture and client requirements, leveraged virtualization to streamline testing and data validation.
+      description: Evaluated and optimized MySQL solutions based on system architecture and client requirements.
 
 - title: Teaching
   type: time_table
@@ -43,25 +43,20 @@
     - title: CSE 60556 Large Language Models (TA, PhD level)
       institution: University of Notre Dame
       year: 2024 Fall
-      description: A graduate-level course on large language models covering their tasks, architectures, training, reasoning, efficiency, applications, and societal challenges.
     - title: Theory and Practice of Large Models (Lecturer)
       institution: Shenzhen University
       year: 2023 Summer
-      description: A course on AI compilers that teaches principles, design, and optimization with TPU-MLIR for efficient TPU use and career preparation in AI.
     - title: E6770 Network Virtualization and Cloud Computing (TA, MS level)
       institution: Columbia University
       year: 2022 Fall
-      description: An advanced study of communication protocols, network architectures, flow/congestion control, and performance evaluation in integrated networks.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - title: NeurIPS Scholar Award
       year: 2025
-    - title: Master of Science Award of Excellence
+    - title: Columbia University Master of Science Award of Excellence
       year: 2023
-      description: Top graduating MS students are recognized with the Master of Science Award of Excellence that is awarded to less than 5% of the graduating class.
-    - title: MS EE Honors Program
+    - title: Columbia University MS EE Honors Program
       year: 2022
-      description: Active EE MS students with a GPA in the top 10% of the class are included in the MS Honors program.
 
