@@ -30,6 +30,10 @@ I'm a second-year PhD student from [CSE](https://cse.nd.edu/), [University of No
 
 I received my Bachelor’s degree in Electrical Engineering from Southeast University, China, in 2021. I was selected as the [MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program) at Columbia University in Spring 2022 and graduated with the [Master of Science Award of Excellence](https://www.ee.columbia.edu/student-awards-and-fellowships) in 2023.
 
-My research focuses on AI for Science, 1) Graph representation learning, and 2) Multimodal scientific reasoning. My long-term goal is to build generative scientific world models that can simulate, explain, and reason about complex chemical systems.
+My research focuses on AI for Science, 
+1) Graph representation learning, 
+2) Multimodal scientific reasoning.
+
+My long-term goal is to build generative scientific world models that can simulate, explain, and reason about complex chemical systems. I aim to bridge scientific reasoning with reflective agent design, enabling models that not only generate hypotheses and molecular structures, but also critically evaluate, revise, and justify their own reasoning processes.
 
 
