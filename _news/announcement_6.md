@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper [Graph Diffusion Transformers are In-Context Molecular Designers](https://arxiv.org/abs/2510.08744)) is accepted to [ICLR](https://iclr.cc/)!  
+The paper [Graph Diffusion Transformers are In-Context Molecular Designers](https://arxiv.org/abs/2510.08744) is accepted to [ICLR](https://iclr.cc/)!  
